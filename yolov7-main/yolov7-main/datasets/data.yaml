@@ -1,0 +1,10 @@
+# custom dataset
+train: ./datasets/train.txt
+val: ./datasets/val.txt
+test: ./datasets/test.txt
+
+# number of classes
+nc: 3
+
+# class names
+names: ['label1', 'label2','label3']
